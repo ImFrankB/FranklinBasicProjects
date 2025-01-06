@@ -2,7 +2,7 @@
 #include <vector>
 #include <windows.h>
 #include <conio.h>
-#include <thread> //for loading animation
+#include <thread>
 #include <string>
 
 
